@@ -1,0 +1,19 @@
+内蒙古开放式虚拟仿真实验教学管理平台：http://grass.imau.owvlab.net/virexp/login
+账号：share_admin
+密码：Rainier!2018
+
+内蒙古实验连接：http://grass.imau.owvlab.net/virexp/zwsy
+
+虚拟仿真实验教学管理平台：http://source.owvlab.net/cms/index.html
+泽新：账号密码--chenzx chenzx183
+
+美晨：账号密码--limc  limc187
+
+郑航校级虚拟仿真实验教学项目展示平台：http://zua.rofall.net/virexp/prepare_login
+账号：share_admin 
+密码：rainier
+
+郑航发动机实验连接：http://zua.rofall.net/virexp/fdj
+
+
+ilab网址：http://www.ilab-x.com/
